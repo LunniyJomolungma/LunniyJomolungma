@@ -8,8 +8,6 @@
 
 `Python` • `C++` • `JavaScript` • `Git`
 
-              🌲 🏔️ 🌲
-
 </div>
 
 ---
