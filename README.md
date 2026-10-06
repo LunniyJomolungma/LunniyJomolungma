@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/lunniy-jomolungma.gif" width="520" alt="Лунный Джомолунгма в Темнолесье"/>
+<img src="./lunniy-jomolungma.gif" width="520" alt="Лунный Джомолунгма в Темнолесье"/>
 
 # 🌙 Шаббат Шалом, я Лунный Джомолунгма
 
